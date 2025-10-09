@@ -22,4 +22,4 @@ Week 6
 
 Week 7
 - AI Agents (09_ai-agent-business-strategy-report.ipynb)
-- LangGraph AI Agent (10_ai-agent-business-strategy-report.ipynb)
+- LangGraph AI Agent (10_ai-agent-business-strategy-report-langgraph.ipynb)
