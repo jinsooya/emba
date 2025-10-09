@@ -19,3 +19,7 @@ Week 6
 - AI Interactions with LLM APIs: Use Cases (06_working_with_llm_api.ipynb)
 - Document Loaders: LangChain (07_langchain-document-loaders.ipynb)
 - Retrieval-Augmented Generation: An Overview (08_langchain-rag-overview.ipynb)
+
+Week 7
+- AI Agents (09_ai-agent-business-strategy-report.ipynb)
+- LangGraph AI Agent (10_ai-agent-business-strategy-report.ipynb)
